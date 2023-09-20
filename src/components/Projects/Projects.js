@@ -32,11 +32,11 @@ function Projects() {
     const projectsInfo = [
         {
             year: "2023",
-            name: "Project Callestrae",
-            skills: ["React.Js", "Recoil", "Tailwind", "Python", "Flask"],
-            description: "RPG game demo that allows users to craft personalized characters and embark on adventures within a vibrant game world.",
-            github: "https://github.com/chernandez148/demo_game_v2",
-            demo: "https://demo-game-v2.onrender.com/",
+            name: "Icebraker Bartending",
+            skills: ["React.Js", "Python", "Flask"],
+            description: "Icebreaker Bartending: Your go-to destination for top-notch bartending services.",
+            github: "https://github.com/chernandez148/icebraker-bartending",
+            demo: "https://chernandez148.github.io/icebraker-bartending/",
         },
         {
             year: "2023",
